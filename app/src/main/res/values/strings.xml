@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="dial">Dial</string>
+    <string name="browse">Browse</string>
+    <string name="mail">Mail</string>
+    <string name="name">Name</string>
+    <string name="go_to_another_activity">Go to another activity</string>
+</resources>
